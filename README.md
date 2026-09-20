@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0258-add-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
