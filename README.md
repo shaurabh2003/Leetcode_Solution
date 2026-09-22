@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0258-add-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
