@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2974-minimum-number-game) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
