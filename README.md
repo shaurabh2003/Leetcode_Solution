@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0258-add-digits) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0050-powx-n) |
 ## Divide and Conquer
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
