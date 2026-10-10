@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
