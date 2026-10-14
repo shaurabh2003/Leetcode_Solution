@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
