@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2974-minimum-number-game) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2974-minimum-number-game) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
