@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0066-plus-one) |
