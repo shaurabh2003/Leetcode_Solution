@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0136-single-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0258-add-digits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0053-maximum-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -196,4 +200,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
