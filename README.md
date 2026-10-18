@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0258-add-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
