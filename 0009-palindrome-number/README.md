@@ -22,7 +22,6 @@
 <strong>Output:</strong> false
 <strong>Explanation:</strong> Reads 01 from right to left. Therefore it is not a palindrome.
 </pre>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
