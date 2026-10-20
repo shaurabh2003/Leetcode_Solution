@@ -1,12 +1,7 @@
 class Solution {
-
-
     public int sortableIntegers(int[] nums) {
-
-        
         int n = nums.length;
         int[] drops = IntStream.range(0, n - 1).filter(j -> nums[j] > nums[j + 1]).toArray();  // j with nums[j] > nums[j + 1]
-
 
         IntPredicate sortable = k -> {  // each drop needs its own block, which must wrap into order and fit between its neighbors
             if (drops.length > n / k) return false;  // a block holds at most one drop
@@ -29,14 +24,5 @@ class Solution {
         IntStream divisors = IntStream.iterate(1, k -> k * k <= n, k -> k + 1).filter(k -> n % k == 0)
             .flatMap(k -> k == n / k ? IntStream.of(k) : IntStream.of(k, n / k));
         return divisors.filter(sortable).sum();
-
-
-
-
     }
-
-
-
-
-
 }
