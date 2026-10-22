@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0067-add-binary) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0089-gray-code) |
 ## Enumeration
 |  |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0100-same-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
