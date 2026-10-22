@@ -12,15 +12,12 @@
 <strong>Explanation:</strong> [1,2,3,4,5] is the original sorted array.
 You can rotate the array by x = 2 positions to begin on the element of value 3: [3,4,5,1,2].
 </pre>
-
 <p><strong class="example">Example 2:</strong></p>
-
 <pre>
 <strong>Input:</strong> nums = [2,1,3,4]
 <strong>Output:</strong> false
 <strong>Explanation:</strong> There is no sorted array once rotated that can make nums.
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
 <pre>
 <strong>Input:</strong> nums = [1,2,3]
