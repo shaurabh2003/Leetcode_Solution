@@ -6,20 +6,14 @@ class Solution {
 
         return res;
     }
-
-
     private void dfs(int O, int C, String s) {
         if (O == 0 && C == 0) {
             res.add(s + ")");
             return;
         }
-
         if (O > 0)
             dfs(O - 1, C, s + "(");
-
         if (C >= O)
             dfs(O, C - 1, s + ")"); 
     }
-
-
 }
