@@ -1,5 +1,4 @@
 class Solution {
-    
     public boolean check(int[] nums) {
         int breaks = 0;
         int n = nums.length;
@@ -10,5 +9,4 @@ class Solution {
         }
         return breaks <= 1;
     }
-    
 }
