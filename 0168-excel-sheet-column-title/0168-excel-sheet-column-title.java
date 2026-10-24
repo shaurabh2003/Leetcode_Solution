@@ -1,4 +1,5 @@
 class Solution {
+    
     public String convertToTitle(int columnNumber) {
         StringBuilder result = new StringBuilder();
         while (columnNumber > 0) {
@@ -6,7 +7,7 @@ class Solution {
             result.append((char) (columnNumber % 26 + 'A'));
             columnNumber /= 26;
         }
-        return result.reverse().toString();
         
+        return result.reverse().toString();
     }
 }
