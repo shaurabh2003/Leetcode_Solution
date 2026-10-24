@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/excel-sheet-column-title">168. Excel Sheet Column Title</a></h2><h3>Easy</h3><hr><p>Given an integer <code>columnNumber</code>, return <em>its corresponding column title as it appears in an Excel sheet</em>.</p>
-
 <p>For example:</p>
 
 <pre>
@@ -27,9 +26,7 @@ AB -&gt; 28
 <strong>Input:</strong> columnNumber = 28
 <strong>Output:</strong> &quot;AB&quot;
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
-
 <pre>
 <strong>Input:</strong> columnNumber = 701
 <strong>Output:</strong> &quot;ZY&quot;
