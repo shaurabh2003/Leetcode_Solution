@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0136-single-number) |
+| [0228-summary-ranges](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0228-summary-ranges) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1752-check-if-array-is-sorted-and-rotated) |
