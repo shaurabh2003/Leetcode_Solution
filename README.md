@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0036-valid-sudoku) |
+| [0205-isomorphic-strings](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
