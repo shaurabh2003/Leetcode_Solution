@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0258-add-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
