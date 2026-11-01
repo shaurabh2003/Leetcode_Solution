@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
@@ -269,10 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0101-symmetric-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
