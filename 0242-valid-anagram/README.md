@@ -19,7 +19,6 @@
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
-
 <ul>
 	<li><code>1 &lt;= s.length, t.length &lt;= 5 * 10<sup>4</sup></code></li>
 	<li><code>s</code> and <code>t</code> consist of lowercase English letters.</li>
