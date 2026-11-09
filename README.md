@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2974-minimum-number-game) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
