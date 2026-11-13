@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0175-combine-two-tables) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
