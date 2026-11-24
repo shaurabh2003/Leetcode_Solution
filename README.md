@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2974-minimum-number-game) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3886-sum-of-sortable-integers) |
 ## String
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Queue
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3886-sum-of-sortable-integers) |
 ## Depth-First Search
 |  |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
