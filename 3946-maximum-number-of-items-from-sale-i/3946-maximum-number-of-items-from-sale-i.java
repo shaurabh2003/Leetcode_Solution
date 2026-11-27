@@ -6,11 +6,11 @@ class Solution {
         int[] have = new int[top + 1], gains = new int[top + 1];  
         for (int factor : factors) have[factor]++;
         for (int factor = 1; factor <= top; factor++)
-            for (int multiple = factor; multiple <= top; multiple += factor)  // every factor-th cell is a multiple
+            for (int multiple = factor; multiple <= top; multiple += factor)  
                 gains[factor] += have[multiple];
 
         int cheapest = Arrays.stream(prices).min().getAsInt();
-        int[] best = new int[budget + 1];  // no first copies yet: everything goes to the cheapest item
+        int[] best = new int[budget + 1];  
         Arrays.setAll(best, money -> money / cheapest);
         for (int[] item : items) {
             int factor = item[0], price = item[1], gain = gains[factor];
