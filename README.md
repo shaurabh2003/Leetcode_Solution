@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3886-sum-of-sortable-integers) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/0011-container-with-most-water) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/shaurabh2003/Leetcode_Solution/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Tree
 |  |
 | ------- |
